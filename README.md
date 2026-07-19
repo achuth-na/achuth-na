@@ -67,7 +67,7 @@ Building web applications, websites, IoT projects, and automation solutions.
 
 <p align="center">
 <a href="https://achuth-na.github.io/">
-<img src="./assets/portfolio-thumbnail.png" width="100%" alt="Portfolio Preview">
+<img src="assets/Portfolio%20Thumbnail.png" width="100%" alt="Portfolio Preview">
 </a>
 </p>
 
@@ -79,11 +79,11 @@ A responsive portfolio showcasing my projects, technical skills, certifications,
 
 <p align="center">
 <a href="https://achuth-na.github.io/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 
 <a href="https://github.com/achuth-na/achuth-na.github.io">
-<img src="https://img.shields.io/badge/💻_Repository-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
@@ -95,10 +95,42 @@ A responsive portfolio showcasing my projects, technical skills, certifications,
 
 <p align="center">
 <a href="https://achuth-na.github.io/weather-app-js/">
-<img src="./assets/weather-thumbnail.png" width="100%" alt="Weather App Preview">
+<img src="assets/Weather%20thumbnail.png" width="100%" alt="Weather App Preview">
 </a>
 </p>
 
+A responsive weather application that provides real-time weather information using a weather API.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `REST API`
+
+<p align="center">
+<a href="https://achuth-na.github.io/weather-app-js/">
+<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://github.com/achuth-na/weather-app-js">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🤖 ESP32 Surveillance Rover
+
+> 🚧 **Currently In Progress**
+
+An ESP32-powered surveillance rover with live video streaming, Wi-Fi control, and IoT-based remote monitoring.
+
+**Tech Stack**
+
+`ESP32` `Arduino` `IoT` `Embedded Systems`
 A weather application that fetches real-time weather data using a REST API with a clean responsive UI.
 
 **Tech Stack**
