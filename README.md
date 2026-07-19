@@ -154,12 +154,3 @@ A weather application that fetches real-time weather data using a REST API with 
 
 ---
 
-## 🤖 ESP32 Surveillance Rover
-
-> 🚧 **Currently In Progress**
-
-An ESP32-powered surveillance rover with live video streaming, Wi-Fi control, and IoT-based remote monitoring.
-
-**Tech Stack**
-
-`ESP32` `Arduino` `IoT` `Embedded Systems`
