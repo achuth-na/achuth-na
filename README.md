@@ -56,3 +56,78 @@ Building web applications, websites, IoT projects, and automation solutions.
 </p>
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Personal Portfolio</h3>
+
+<p align="center">
+<a href="https://achuth-na.github.io/">
+<img src="./assets/portfolio-thumbnail.png" width="100%" alt="Portfolio Preview">
+</a>
+</p>
+
+A responsive portfolio showcasing my projects, technical skills, certifications, and achievements.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<p align="center">
+<a href="https://achuth-na.github.io/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/achuth-na/achuth-na.github.io">
+<img src="https://img.shields.io/badge/💻_Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌦️ Weather App</h3>
+
+<p align="center">
+<a href="https://achuth-na.github.io/weather-app-js/">
+<img src="./assets/weather-thumbnail.png" width="100%" alt="Weather App Preview">
+</a>
+</p>
+
+A weather application that fetches real-time weather data using a REST API with a clean responsive UI.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `REST API`
+
+<p align="center">
+<a href="https://achuth-na.github.io/weather-app-js/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/achuth-na/weather-app-js">
+<img src="https://img.shields.io/badge/💻_Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🤖 ESP32 Surveillance Rover
+
+> 🚧 **Currently In Progress**
+
+An ESP32-powered surveillance rover with live video streaming, Wi-Fi control, and IoT-based remote monitoring.
+
+**Tech Stack**
+
+`ESP32` `Arduino` `IoT` `Embedded Systems`
