@@ -27,3 +27,32 @@ Building web applications, websites, IoT projects, and automation solutions.
 </p>
 
 ---
+## 🚀 About Me
+
+- 🎓 BCA (Honours) student specializing in AI/ML & Data Science
+- 💻 Aspiring Full-Stack Developer focused on building practical web applications
+- 🤖 Passionate about Artificial Intelligence, IoT, Robotics, and Automation
+- 🌱 Currently learning JavaScript, Python, SQL, and Data Structures & Algorithms
+- 🚀 Building real-world projects to improve my software development skills
+- 🎯 Seeking Software Development Internship opportunities
+
+- ---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,bootstrap,git,github,vscode" />
+</p>
+
+### ⚙️ Other Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge"/>
+</p>
+
+---
